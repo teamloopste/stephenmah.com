@@ -89,7 +89,7 @@ li {
 	height: 850px;
 	background: linear-gradient(#000000, transparent 90%),
 				linear-gradient(0deg, #fff, transparent 90%),
-			    url('../img/lighthouse.jpg') no-repeat center;
+			    url('../img/torontoskyline.jpg') no-repeat center;
 	background-size: cover;
 	text-align:center;
 }
