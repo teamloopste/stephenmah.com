@@ -36,7 +36,7 @@ Page: About
 ********************/
 
 .profile-photo {
-  float: left;
+  float: center;
   margin: 0 5% 80px 0;
 }
 
@@ -47,15 +47,17 @@ Page: About
     float: right;
     font-size: 1.125em;
     margin-right: 5%;
-    text-align: right;
-    width: 45%;
+    text-align: center;
+    width: 100%;
+    position:fixed;
+    top: 0px;
   }
   
   #logo {
     float: left;
     margin-left: 5%;
     text-align: left;
-    width: 45%;
+    width: 90%;
   }
   
   h1 {
